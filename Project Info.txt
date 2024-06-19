@@ -1,0 +1,7 @@
+1. Make a power point presentation on ALU.
+2. Implement 12 functions of ALU using any simulator(CIRCUIT MAKER).
+3.presentation date:  B1 and A2 (10.04.22)     &     B2 and A1 (12.04.22).
+4. submit your presentation slides and circuit maker implementation within the assigned time.  
+Submission time for B1,A2 : 9.04.22  11:55pm.
+Submission time for B2,A1 : 11.04.22  11:55pm.
+If you have any question related this assignment please feel free to contact with me.
